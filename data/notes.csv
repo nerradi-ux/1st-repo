@@ -1,1 +1,10 @@
-
+etudiant,matiere,note,coefficient
+Amine,Maths,14,3
+Amine,Informatique,17,4
+Amine,Anglais,12,2
+Salma,Maths,9,3
+Salma,Informatique,13,4
+Salma,Anglais,16,2
+Yassine,Maths,18,3
+Yassine,Informatique,,4
+Yassine,Anglais,11,2
